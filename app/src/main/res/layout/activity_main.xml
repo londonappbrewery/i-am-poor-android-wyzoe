@@ -17,7 +17,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="73dp"
-        android:fontFamily="monospace"
+        android:fontFamily="serif"
         android:text="I Am Poor"
         android:textColor="@android:color/black"
         android:textSize="40sp"
